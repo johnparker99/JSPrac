@@ -1,0 +1,28 @@
+.grid {
+    width: 400px;
+    height: 600px;
+    background-image: url('images/background.png');
+    background-size: cover;
+    position: relative;
+    
+    font-size: 70px;
+    text-align: center;
+
+  }
+  
+  .doodler {
+    width: 60px;
+    height: 60px;
+    /*background-color: red;*/
+    background-image: url('images/football_ball.png');
+    background-size: cover;
+    position: absolute;
+  }
+  
+  .platform {
+    width: 85px;
+    height: 15px;
+    /*background-color: green;*/
+    background-image: url('images/platform.png');
+    position: absolute;
+  }
