@@ -12,10 +12,10 @@
   
   .doodler {
     width: 60px;
-    height: 85px;
+    height: 60px;
     /*background-color: red;*/
     background-image: url('images/football_ball.png');
-    background-size: cover;
+    background-size: contain;
     position: absolute;
   }
   
